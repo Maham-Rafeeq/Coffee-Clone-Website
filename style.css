@@ -154,7 +154,7 @@ nav i{
     width:350px;
     height:350px;
     border-radius: 50%;
-    object-fit:contain;
+    object-fit:cover;
 }
 .text-about h1{
     margin-top: 20px;
@@ -321,5 +321,6 @@ footer {
         }
 
      
+
 
 
