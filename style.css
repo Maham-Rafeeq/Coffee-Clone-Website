@@ -90,7 +90,7 @@ nav i{
 .main-Hero .hero-img{
     width: 400px;
     height: 400px;
-    object-fit:cover;
+    object-fit:fill;
 }
 .main-Hero .hero-img img{
     width: 100%;
@@ -153,7 +153,7 @@ nav i{
     width:350px;
     height:350px;
     border-radius: 50%;
-    object-fit:cover;
+    object-fit:fill;
 }
 .text-about h1{
     margin-top: 20px;
@@ -235,7 +235,7 @@ nav i{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    object-fit:cover;
+    object-fit:fill;
 }
 .reveiw-card p{
     width: 50%;
@@ -262,7 +262,7 @@ nav i{
 }
 .gallary-img img{
     width: 350px;
-    object-fit:cover;
+    object-fit:fill;
     border-radius: 10px;
 }
 /* footer */
@@ -320,3 +320,4 @@ footer {
         }
 
      
+
