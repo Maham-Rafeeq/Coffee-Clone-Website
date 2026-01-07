@@ -236,7 +236,7 @@ nav i{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    object-fit:contain;
+    object-fit:cover;
 }
 .reveiw-card p{
     width: 50%;
@@ -321,6 +321,7 @@ footer {
         }
 
      
+
 
 
 
